@@ -9,8 +9,8 @@
 > This is not a standalone theme, needs [HyDe](https://github.com/HyDE-Project/HyDE) installed...
 
 ## Theme Screenshots
-![t1](./screenshots/screenshot1.png)
-![t2](./screenshots/screenshot2.png)
+![t1](./screenshots/screenshot1)
+![t2](./screenshots/screenshot2)
 
 ## Installation
 
