@@ -23,8 +23,8 @@ For HyDE (new)
 ```sh
 hydectl theme import
 ```
+And choose Grukai
 
-and choose Grukai
 ---
 
 or install another theme from [HyDe Gallery](https://github.com/kRHYME7/hyde-gallery)
